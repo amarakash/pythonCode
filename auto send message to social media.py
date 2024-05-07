@@ -1,3 +1,4 @@
+#this code will send message automatically to whatsapp, messenger etc
 try:
     import pyautogui as pg
     import time
